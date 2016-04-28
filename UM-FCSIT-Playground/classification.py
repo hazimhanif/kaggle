@@ -1,4 +1,3 @@
-from sklearn import metrics
 from sklearn.tree import DecisionTreeClassifier
 import pandas as pd
 
